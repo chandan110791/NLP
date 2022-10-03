@@ -3,7 +3,7 @@
 
 ## Lexical Processing
 
-### Basic Lixical Processing 
+### Basic Lexical Processing 
       Stem_Lem_bag_of_words.ipynb [Bag Of Words with Stemming and Lemming]	
       final+bag+of+words.ipynb [Final Bag Of Words]
       lemmatization.ipynb [LemmeetisationAndPorterStemming]
